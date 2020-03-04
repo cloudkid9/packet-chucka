@@ -1,0 +1,5 @@
+
+id_rsa.pub
+*.tfstate
+.terraform*
+terraform/grafana*
