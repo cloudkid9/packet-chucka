@@ -23,7 +23,8 @@
 - Docker images are stored in an a private ECR repository. AWS Batch, using the default IAM roles, will have access to this repository. 
 
 The rough diagram below depicts the major components of the design. 
-![Design](./images/k6-aws-batch.png "Rough Design")
+
+- ![Design](./images/k6-aws-batch.png "Rough Design")
 
 
 
